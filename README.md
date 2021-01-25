@@ -16,4 +16,4 @@ C - COVID-19
 
 ![image](Images/Picture3.png)
 
-###### Link to paper - https://arxiv.org/abs/2010.00958
+#### Link to paper - https://arxiv.org/abs/2010.00958
