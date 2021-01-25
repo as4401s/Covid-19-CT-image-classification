@@ -15,3 +15,5 @@ C - COVID-19
 ### F-Score Comparison
 
 ![image](Images/Picture3.png)
+
+###### Link to paper - https://arxiv.org/abs/2010.00958
