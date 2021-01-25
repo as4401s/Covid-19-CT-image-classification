@@ -1,3 +1,17 @@
 # Covid-19-CT-image-classification
 
-![Confusion Matrix Inception V3_No Data Augmentation](Confusion_matrix.jpg)
+### Images
+
+![image](Images/Picture1.png)
+
+A - Normal Images,
+B - Non-COVID-19 (Pneumonia),
+C - COVID-19
+
+### Confusion-Matrix
+
+![image](Images/Picture4.PNG)
+
+### F-Score Comparison
+
+![image](Images/Picture3.png)
